@@ -1,7 +1,7 @@
 {
-<<<<<<< HEAD
   "author": "Epilef Rodriguez",
   "name": "fcc-learn-npm-package-json",
+  "description": "This is a project for the apis and microservices certification",
   "dependencies": {
     "express": "^4.16.4"
   },
@@ -17,23 +17,3 @@
     "url": "https://idontknow/todo.git"
   }
 }
-=======
-	"author": "Epilef Rodriguez",
-	"name": "fcc-learn-npm-package-json",
-	"description": "This is a project for the apis and microservices certification",
-	"dependencies": {
-		"express": "^4.14.0"
-	},
-	"main": "server.js",
-	"scripts": {
-		"start": "node server.js"
-	},
-	"engines": {
-		"node": "8.11.2"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://idontknow/todo.git"
-	}
-}
->>>>>>> b295332cc1a756caaa9c834aaf4f864f1d904dc2
