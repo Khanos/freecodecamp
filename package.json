@@ -1,6 +1,7 @@
 {
 	"author": "Epilef Rodriguez",
 	"name": "fcc-learn-npm-package-json",
+	"description": "This is a project for the apis and microservices certification",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
