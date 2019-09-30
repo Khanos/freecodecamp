@@ -1,2 +1,5 @@
 [core]
 	excludesfile = /etc/.gitignore-global
+[user]
+	email = epilef.rodriguez@gmail.com
+	name = khanos
